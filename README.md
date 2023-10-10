@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+clone to you local machine
+
+```bash
+npx deigit agungfir98/next-template-gnuga [your project name]
+```
+
 First, run the development server:
 
 ```bash
